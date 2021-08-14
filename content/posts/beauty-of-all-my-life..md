@@ -1,29 +1,34 @@
-+++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
-TocOpen = false
-author = "Winnie"
-canonicalURL = ""
-comments = false
-date = 2021-08-14T13:30:00Z
-description = ""
-disableHLJS = false
-disableShare = false
-hideSummary = true
-hidemeta = false
-searchHidden = false
-showToc = false
-tags = []
-title = "Beauty of All My Life. "
-[cover]
-alt = ""
-caption = ""
-hidden = false
-image = ""
-relative = false
-
-+++
+---
+title: "The Beauty of All my Life"
+date: 2020-09-15T11:30:03+00:00
+# weight: 1
+# aliases: ["/first"]
+tags: ["book review"]
+author: "Winnie"
+showToc: false
+TocOpen: false
+draft: false
+hidemeta: true
+comments: false
+description: ""
+canonicalURL: ""
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+HideDescription: true
+categories: ["Books"]
+cover:
+    image: /images/1.jpg # image path/url
+    alt: "Book Cover" # alt text
+    caption: "Book Cover" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+---
 When the Monsoons brings its tune to Namma Bengaluru, silencing the rumblings of this hyper active city with its downpours, you end up curling in bed, all snug and warm. Whilst listening to the Mother Nature’s beats sipping a cup of coffee, there is no better thing to do than getting lost in a book and getting found in the magical place you don’t often see in this world.
 
 That is how I got lost in the **Beauty of all my Life, A Memoir by Ruskin Bond**. Yes, the one who transports people away from concrete walls, takes them to wild jungles, mighty mountains and the vast oceans. I love Ruskin Bond a lot. Somehow he will manage to make you listen to Mynas, Crickets and blue tailed Sun-birds. He will let you feast upon Aloo Samosas, Boiled eggs and a wide range of Pickles which he is very fond of. His gardens will always be filled with roses, zinnias, marigolds and geraniums. And at his place, the Time Stops.
@@ -40,7 +45,7 @@ The book despite being a Memoir, is not chronologically ordered. The Stories are
 
 The best part of the book is the Photos of Ruskin Bond. We have so many wonderful photos of him starting from 2 years through his 80 years of age. These photos are rare and you wouldn’t find it anywhere else. Such a gem they are.
 
-**Great writing + Wonderful Photos + Beautiful book = Paradise.**
+**Great writing + Wonderful Photos + Beautiful book: Paradise.**
 
 The stories that depicts the independence period are overwhelming with emotions. The struggles of people moving in and out of India, the status of people who got settled and there are stories of people who was abandoned which pinches the heart.
 

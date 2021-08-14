@@ -24,4 +24,16 @@
     {{- end }}
 </ul>
 
+<ul>
+    {{ range .Site.Taxonomies.tags }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+    {{ end }}
+</ul>
+
+<ul>
+    {{ range .Site.Taxonomies.categories }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+    {{ end }}
+</ul>
+
 {{- end }}{{/* end main */ -}}

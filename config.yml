@@ -1,5 +1,5 @@
 baseURL: "https://aviblogs.com/"
-title: Avi's Blog
+title: Avi's
 paginate: 20
 theme: PaperMod
 
@@ -13,6 +13,10 @@ googleAnalytics: UA-123-45
 minify:
     disableXML: true
     minifyOutput: true
+
+taxonomies:
+  category: categories
+  tag: tags
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -48,10 +52,10 @@ params:
     #     apple_touch_icon: "<link / abs url>"
     #     safari_pinned_tab: "<link / abs url>"
 
-    label:
-        text: "Home"
-        icon: /apple-touch-icon.png
-        iconHeight: 35
+    # label:
+    #     text: "Home"
+    #     icon: /apple-touch-icon.png
+    #     iconHeight: 35
 
     # profile-mode
     profileMode:
@@ -111,18 +115,35 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: categories
-          name: categories
-          url: /categories/
+        - identifier: Tech
+          name: Tech
+          url: /categories/tech
           weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
+
+        - identifier: Biology
+          name: Biology
+          url: /categories/biology
           weight: 20
-        - identifier: example
-          name: example.org
-          url: https://example.org
+
+        - identifier: Aerospace
+          name: Aerospace
+          url: /categories/aerospace
           weight: 30
+
+        - identifier: Books
+          name: Books
+          url: /categories/books
+          weight: 40
+
+        
+        # - identifier: tags
+        #   name: tags
+        #   url: /tags/
+        #   weight: 20
+        # - identifier: example
+        #   name: example.org
+        #   url: https://example.org
+        #   weight: 30
           
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
