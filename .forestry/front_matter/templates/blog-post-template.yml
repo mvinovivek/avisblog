@@ -72,3 +72,5 @@ fields:
   - type: boolean
     name: hidden
     label: hidden
+pages:
+- content/posts/Books/beauty-of-all-my-life..md
