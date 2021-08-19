@@ -6,27 +6,31 @@
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
-    --theme: #B5EAEA;     /* changes the background color of the site in all the pages except home page*/
-    --entry: #6b8357;   /* This changes the Post background in the homepage */
+    --theme: #FAFCC2;     /*  FAFCC2 changes the background color of the site in all the pages except home page*/
+    --entry: #5AA469;   /* This changes the Post background in the homepage */
     --primary: rgba(0, 0, 0, 0.88);
     --secondary: rgba(0, 0, 0, 0.56);
     --tertiary: rgba(0, 0, 0, 0.16);
     --content: rgba(0, 0, 0, 0.88);
     --hljs-bg: #1c1d21;
-    --code-bg: #477e7e;  /* This changes the home page color as well as color of the code section background*/
-    --border: #eee;
+    --code-bg: #5AA469;  /* This changes the home page color as well as color of the code section background*/
+    --border: #428a51;
+    --share-button:#5AA469;
+
 }
 
 .dark {
-    --theme: #1d1e20;
-    --entry: #2e2e33;
-    --primary: rgba(255, 255, 255, 0.84);
-    --secondary: rgba(255, 255, 255, 0.56);
+    --theme: #5AA469;
+    --entry: #386441;
+    --primary: black;
+    --secondary: rgba(0, 0, 0, 0.56);
     --tertiary: rgba(255, 255, 255, 0.16);
-    --content: rgba(255, 255, 255, 0.74);
+    --content: rgba(0, 0, 0, 0.99);
     --hljs-bg: #2e2e33;
-    --code-bg: #37383e;
-    --border: #333;
+    --code-bg: #437a4e;
+    --border: #386441;
+    --share-button:#386441;
+    --share-fill:#FAFCC2
 }
 
 .list {
