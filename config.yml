@@ -1,4 +1,4 @@
-baseURL: "https://aviblogs.com/"
+baseURL: "https://www.avisblog.in/"
 title: Avi's
 paginate: 20
 theme: PaperMod
@@ -23,7 +23,6 @@ params:
     title: Avi's Blog
     description: "This is blog for tech and botany and space and books"
     keywords: [Blog, Portfolio, PaperMod, Hugo, ]
-    author: Me
     author: ["Winnie", "Zuha"]
     #images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
