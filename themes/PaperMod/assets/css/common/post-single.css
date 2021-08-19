@@ -319,7 +319,7 @@
 }
 
 .share-buttons{
-    background: lightblue;
+    background: var(--share-button);
 }
 
 .post-tags a {
@@ -356,7 +356,7 @@
 .share-buttons a svg {
     height: 30px;
     width: 30px;
-    fill: currentColor;
+    fill: var(--primary);
     transition: transform 0.1s;
 }
 
