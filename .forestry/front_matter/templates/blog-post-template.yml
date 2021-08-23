@@ -74,6 +74,11 @@ fields:
   - type: boolean
     name: hidden
     label: hidden
+- name: category
+  type: text
+  config:
+    required: false
+  label: category
 pages:
 - content/posts/forest.md
 - content/posts/hello-world.md
