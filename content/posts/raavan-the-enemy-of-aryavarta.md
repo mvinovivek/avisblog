@@ -5,12 +5,12 @@ ShowReadingTime = true
 TocOpen = false
 author = "Winnie"
 canonicalURL = ""
+categories = "books"
 comments = false
 date = 2021-09-01T17:30:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -18,10 +18,10 @@ showToc = false
 tags = ["book review"]
 title = "Raavan - The Enemy of Aryavarta"
 [cover]
-alt = ""
+alt = "Raavan - Book Cover"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/812dmvf1v8s.jpg"
 relative = false
 
 +++
