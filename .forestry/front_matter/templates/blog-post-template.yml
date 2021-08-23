@@ -74,11 +74,11 @@ fields:
   - type: boolean
     name: hidden
     label: hidden
-- name: category
+- name: categories
   type: text
   config:
     required: false
-  label: category
+  label: categories
 pages:
 - content/posts/forest.md
 - content/posts/hello-world.md
