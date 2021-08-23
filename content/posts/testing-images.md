@@ -21,7 +21,7 @@ alt = "Alt"
 caption = "Blah"
 hidden = false
 image = "static/uploads/6th-bday.jpg"
-relative = true
+relative = false
 
 +++
 ## Testing the Image
