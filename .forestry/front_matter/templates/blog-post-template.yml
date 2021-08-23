@@ -75,9 +75,20 @@ fields:
     name: hidden
     label: hidden
 - name: categories
-  type: text
+  type: select
+  default: []
   config:
     required: false
+    options:
+    - books
+    - tech
+    - aerospace
+    - biology
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: categories
 pages:
 - content/posts/forest.md
