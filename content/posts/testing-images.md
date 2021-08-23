@@ -1,7 +1,7 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 TocOpen = false
 author = "Winnie"
 canonicalURL = ""
@@ -10,7 +10,7 @@ date = 2021-08-05T04:30:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-hideSummary = false
+hideSummary = true
 hidemeta = false
 searchHidden = false
 showToc = false
