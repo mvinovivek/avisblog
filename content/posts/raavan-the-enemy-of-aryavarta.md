@@ -1,13 +1,13 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
 ShowReadingTime = true
 TocOpen = false
 author = "Winnie"
 canonicalURL = ""
 categories = "books"
 comments = false
-date = 2021-09-01T17:30:00Z
+date = 2021-08-04T17:30:00Z
 description = ""
 disableHLJS = false
 disableShare = false
