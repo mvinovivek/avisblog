@@ -5,13 +5,13 @@ ShowReadingTime = true
 TocOpen = false
 author = "Winnie"
 canonicalURL = ""
+categories = "books"
 category = "Books"
 comments = false
 date = 2021-08-19T08:30:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -19,10 +19,10 @@ showToc = false
 tags = ["book review"]
 title = "காடு (Forest)"
 [cover]
-alt = ""
-caption = ""
+alt = "Kaadu - Cover"
+caption = "Kaadu - Book Cover"
 hidden = false
-image = ""
+image = "/uploads/kaadu.jpg"
 relative = false
 
 +++
