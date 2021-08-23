@@ -17,11 +17,11 @@ showToc = false
 tags = []
 title = "Testing Images "
 [cover]
-alt = ""
-caption = ""
+alt = "Alt"
+caption = "Blah"
 hidden = false
 image = "static/uploads/6th-bday.jpg"
-relative = false
+relative = true
 
 +++
 ## Testing the Image
