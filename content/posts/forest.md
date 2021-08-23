@@ -1,6 +1,6 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
 ShowReadingTime = true
 TocOpen = false
 author = "Winnie"
