@@ -5,6 +5,7 @@ ShowReadingTime = true
 TocOpen = false
 author = "Winnie"
 canonicalURL = ""
+category = "Books"
 comments = false
 date = 2021-08-19T08:30:00Z
 description = ""
