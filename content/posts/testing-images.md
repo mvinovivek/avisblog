@@ -20,8 +20,8 @@ title = "Testing Images "
 alt = "Alt"
 caption = "Blah"
 hidden = false
-image = "static/images/6th-bday.jpg"
-relative = false
+image = "/images/1.jpg"
+relative = true
 
 +++
 ## Testing the Image
