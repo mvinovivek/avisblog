@@ -75,7 +75,7 @@ params:
     homeInfoParams:
         Title: "Hi \U0001F44B"
         Content: "Welcome to Avi's - A space where we share stories about the things we do, read and experience in life!" 
-        Qoute: "Great Stories happens to those who can tell them ~ Ira Glas"
+        Quote: "Great Stories happens to those who can tell them ~ Ira Glas"
         Content2: "Let's Make some great stories to happen"
 
     # socialIcons:
