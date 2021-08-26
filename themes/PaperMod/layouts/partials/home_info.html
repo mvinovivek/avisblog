@@ -5,8 +5,8 @@
     </header>
     <section class="entry-content">
         <p>{{ .Content | markdownify }}</p>
-        <blockquote>{{ .Content | markdownify }}</blockquote>
-        <p>{{ .Content | markdownify }}</p>
+        <blockquote>{{ .Quote | markdownify }}</blockquote>
+        <p>{{ .Content2 | markdownify }}</p>
     </section>
 </article>
 {{- end -}}
