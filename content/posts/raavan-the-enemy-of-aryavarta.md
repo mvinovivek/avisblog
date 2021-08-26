@@ -7,7 +7,7 @@ author = "Winnie"
 canonicalURL = ""
 categories = "books"
 comments = false
-date = 2021-08-04T17:30:00Z
+date = 2021-08-26T11:30:00Z
 description = ""
 disableHLJS = false
 disableShare = false
@@ -21,7 +21,7 @@ title = "Raavan - The Enemy of Aryavarta"
 alt = "Raavan - Book Cover"
 caption = ""
 hidden = false
-image = "/uploads/812dmvf1v8s.jpg"
+image = "/uploads/ravan.jpg"
 relative = false
 
 +++
