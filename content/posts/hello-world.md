@@ -1,6 +1,6 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
 ShowReadingTime = true
 TocOpen = false
 author = "Zuha"
@@ -9,10 +9,9 @@ categories = ""
 comments = false
 date = 2021-08-26T14:00:00Z
 description = ""
-disableHLJS = false
+disableHLJS = true
 disableShare = false
-draft = true
-hideSummary = false
+hideSummary = true
 hidemeta = false
 searchHidden = false
 showToc = false
