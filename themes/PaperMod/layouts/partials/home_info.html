@@ -4,9 +4,9 @@
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     <section class="entry-content">
-        <p>{{ .Content | markdownify }}</p>
-        <blockquote>{{ .Quote | markdownify }}</blockquote>
-        <p>{{ .Content2 | markdownify }}</p>
+        <p><strong>{{ .Content | markdownify }}</strong></p>
+        <strong><blockquote>{{ .Quote | markdownify }}</blockquote></strong>
+        <p><strong>{{ .Content2 | markdownify }}</strong></p>
     </section>
 </article>
 {{- end -}}
