@@ -21,7 +21,7 @@ taxonomies:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Avi's Blog
-    description: "This is blog for tech and botany and space and books"
+    description: "A place where we share stories about Technology, Life Science and Books!"
     keywords: [Blog, Portfolio, PaperMod, Hugo, ]
     author: ["Winnie", "Zuha"]
     #images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -73,8 +73,10 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Title: "Hi \U0001F44B"
+        Content: "Welcome to Avi's - A space where we share stories about the things we do, read and experience in life! 
+        > Great Stories happens to those who can tell them ~ Ira Glas
+        Let's Make some great stories to happen"
 
     # socialIcons:
     #     - name: twitter
