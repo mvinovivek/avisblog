@@ -22,7 +22,7 @@ title = "The Beauty of All My Life"
 alt = "Book Cover"
 caption = "Book Cover from Amazon"
 hidden = false
-image = "/uploads/1.jpg"
+image = "/uploads/ruskin.jpg"
 relative = false
 
 +++
