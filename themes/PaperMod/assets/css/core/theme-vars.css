@@ -7,15 +7,15 @@
     --footer-height: 60px;
     --radius: 8px;
     --theme: #FAFCC2;     /*  FAFCC2 changes the background color of the site in all the pages except home page*/
-    --entry: #b88354;   /* This changes the Post background in the homepage */
+    --entry: #f3f781;   /* This changes the Post background in the homepage */
     --primary: rgba(0, 0, 0, 0.88);
     --secondary: rgba(0, 0, 0, 0.56);
     --tertiary: rgba(0, 0, 0, 0.16);
     --content: rgba(0, 0, 0, 0.88);
-    --hljs-bg: #1c1d21;
-    --code-bg: #b88354;  /* This changes the home page color as well as color of the code section background*/
-    --border: #af7a4b;
-    --share-button:#b88354;
+    --hljs-bg: #413434;
+    --code-bg: #f6fa8c;  /* This changes the home page color as well as color of the code section background*/
+    --border: #f6fa8c;
+    --share-button:#f6fa8c;
 
 }
 
@@ -26,8 +26,8 @@
     --secondary: rgb(224, 213, 192);
     --tertiary: rgba(211, 208, 208, 0.16);
     --content: rgb(221, 217, 206);
-    --hljs-bg: #2e2e33;
-    --code-bg: #2D2424;
+    --hljs-bg: #413434;
+    --code-bg: #413434;
     --border: #413434;
     --share-button:#2D2424;
     --share-fill:#FAFCC2
