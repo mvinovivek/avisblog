@@ -3,7 +3,7 @@ ShowBreadCrumbs = false
 ShowPostNavLinks = false
 ShowReadingTime = true
 TocOpen = false
-author = "Winnie"
+author = "Zuha"
 canonicalURL = ""
 categories = ""
 comments = false
@@ -32,7 +32,7 @@ We are celebrating our months of togetherness, counting anxiously days to our an
 
 Zuha is an original thinker. Her ideas and way of looking at things always leave others in awe. Winnie on the other hand is good at technical writing and able to explain complex things in simple words. So we thought by combing original thoughts with simple writing, we can actually make things work out and our idea of starting a blog became concrete.
 
-But then the question pops up?? Kya likhe-hein blog mein
+But then the question pops up?? Kya likhe-hein blog mein 🤔
 
 Everyone who is into blogging can understand this. Since both of us are new into blogging, we decided we will write only about the things we know.
 
@@ -44,4 +44,4 @@ Thank you for taking your time to read all the way here.
 
 With tons of hope, happiness and excitement, we are now launching this space.
 
-Wish us good luck
+Wish us good luck 🤞
